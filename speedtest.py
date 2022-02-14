@@ -1,5 +1,5 @@
 from tkinter import *
-from speedtest import Speedtest    # Will be installed using "pip install speedtest-cli" on terminal
+from speedtest import Speedtest # Will be installed using "pip install speedtest-cli" on terminal
 
 # Creating a canvas
 root = Tk()
