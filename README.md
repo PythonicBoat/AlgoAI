@@ -15,7 +15,4 @@
     <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3" height="20" alt="Contributions Welcome">
   </a>
   <img src="https://img.shields.io/github/repo-size/Pythonicboat/Algorithms.svg?label=Repo%20size" height="20">
-  <a href="https://discord.gg/YXJNrEFk4e">
-    <img src="https://img.shields.io/discord/.svg?logo=discord&colorB=7289DA" height="20" alt="Discord chat">
-  </a>
 </div>
