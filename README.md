@@ -20,7 +20,7 @@
 
 ### 3. [A Mindbending Scenario](http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple1&problemid=372) from the "Australian Informatics Olympiad programme!"
 
-### 4. [Counting to Infinity](http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple2&problemid=383) from the "Australian Informatics Olympiad programme!"
+### 4. ~~[Counting to Infinity](http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple2&problemid=383) from the "Australian Informatics Olympiad programme!"~~
 
 ### 5. [The Tremendous Tak-Tak Tree](http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple2&problemid=382) from the "Australian Informatics Olympiad programme!"
 
@@ -30,9 +30,9 @@
 
 ### 8. Connect N ropes with minimum cost using Priority Queue
 
-### 9. Make a sudoku solver.
+### 9. ~~Make a sudoku solver.~~
 
-### 10. N-Queens
+### 10. ~~N-Queens~~
 
 ### 11. Largest Rectangle in Histogram
 
@@ -48,16 +48,21 @@
 
 ### 17. Minimum Window Substring
 
-### 18. Merge k Sorted Lists
+### 18. ~~[Merge k Sorted Lists](DSA/merge_k_sorted_list.py)~~
 
-### 19. Largest Rectangle in Histogram
+### 19. ~~Largest Rectangle in Histogram~~
 
 ### 20. Reverse Nodes in k-Group
 
 ### 21. Smallest window in a string containing all the characters of another string
 
-### 22. Flatten binary tree to linked list
+### 22. ~~Flatten binary tree to linked list~~
 
 ### 23. Predecessor and Successor in Binary Search Tree
 
 ### 24. Binary Tree Maximum Path Sum
+
+### 27. Minimum Cost of Rope
+### Link : https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#
+
+### 28. Greedy algorithm to find minimum number of coins
