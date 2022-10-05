@@ -48,7 +48,7 @@
 
 ### 17. Minimum Window Substring
 
-### 18. Merge k Sorted Lists
+### 18. [Merge k Sorted Lists](DSA/merge_k_sorted_list.py)
 
 ### 19. Largest Rectangle in Histogram
 
