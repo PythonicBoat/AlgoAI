@@ -34,7 +34,7 @@
 
 ### 10. ~~N-Queens~~
 
-### 11. Largest Rectangle in Histogram
+### 11. ~~Largest Rectangle in Histogram~~
 
 ### 12. Trapping Rain Water
 
