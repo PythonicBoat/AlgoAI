@@ -1,11 +1,12 @@
-global N
-N = 4
+N = int(input("Enter number of queens: "))
+
 
 def printSolution(board):
 	for i in range(N):
 		for j in range(N):
-			print(board[i][j], end = " ")
+			print(board[i][j], end=" ")
 		print('\n')
+
 
 def isSafe(board, row, col):
 
@@ -25,6 +26,7 @@ def isSafe(board, row, col):
 
 	return True
 
+
 def solveNQUtil(board, col):
 
 	if col >= N:
@@ -39,17 +41,22 @@ def solveNQUtil(board, col):
 			board[i][col] = 0
 	return False
 
+
 def solveNQ():
-	board = [ [0, 0, 0, 0],
-			[0, 0, 0, 0],
-			[0, 0, 0, 0],
-			[0, 0, 0, 0] ]
 
-	if solveNQUtil(board, 0) == False:
-		print ("Solution does not exist")
-		return False
+    board = []
+    for i in range(N+1):
+        temp = []
+        for i in range(N+1):
+            temp.append(0)
+        board.append(temp)
 
-	printSolution(board)
-	return True
+
+    if solveNQUtil(board, 0) == False:
+        print("Solution does not exist")
+        return False
+
+    printSolution(board)
+    return True
 
 solveNQ()
