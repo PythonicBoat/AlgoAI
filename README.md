@@ -13,7 +13,7 @@
 </div>
 <div align="center">
 <h2>Contributors</h2>
-<a href="https://github.com/ossamamehmood/Hacktoberfest2022/graphs/contributors">
+<a href="https://github.com/pythonicboat/algoai/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pythonicboat/algoai" />
 </a>
   
