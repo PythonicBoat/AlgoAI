@@ -1,4 +1,4 @@
-<h1 align='center'>AlgoAI</h1>
+<h1 align='center'> AlgoAI </h1>
 <div align='center'>
 <a href="https://github.com/pythonicboat/algorithms/stargazers"><img src="https://img.shields.io/github/stars/pythonicboat/algorithms" alt="Stars Badge"/></a>
 <a href="https://github.com/pythonicboat/algorithms/network/members"><img src="https://img.shields.io/github/forks/pythonicboat/algorithms" alt="Forks Badge"/></a>
